@@ -76,8 +76,7 @@ Run the code in `network_centrality_assignment.py` using Jupyter Notebook or any
 
 ## 🧑‍💻 Author
 **Mukesh Thenraj**  
-Master's in Automation & Safety  
-University of Duisburg-Essen
+Master's in Automation & Safety
 
 ---
 
